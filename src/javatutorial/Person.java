@@ -22,8 +22,7 @@ public class Person {
 		return 0;
 	}
 	public String getEmailAddress() {
-		// TODO Auto-generated method stub
-		return null;
+		return this.emailAddress;
 	}
      
 
