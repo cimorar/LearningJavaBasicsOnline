@@ -14,7 +14,6 @@ public class Person {
     Sex gender;
     String emailAddress;
 	public Sex getGender() {
-
 		return this.gender;
 	}
 	public int getAge() {
