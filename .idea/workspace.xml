@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dea9e73d-546e-4c18-b059-805228a3c587" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javatutorial/Person.java" afterPath="$PROJECT_DIR$/src/javatutorial/Person.java" />
     </list>
     <ignored path="JavaBasics.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -265,7 +264,13 @@
       <option name="project" value="LOCAL" />
       <updated>1461362615200</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Implemented getEmailAddress in Person class">
+      <created>1461362810818</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1461362810818</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -309,7 +314,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Implemented GetGender method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented GetGender method" />
+    <MESSAGE value="Implemented getEmailAddress in Person class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented getEmailAddress in Person class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
