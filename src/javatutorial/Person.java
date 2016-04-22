@@ -14,8 +14,8 @@ public class Person {
     Sex gender;
     String emailAddress;
 	public Sex getGender() {
-		// TODO Auto-generated method stub
-		return null;
+
+		return this.gender;
 	}
 	public int getAge() {
 		// TODO Auto-generated method stub
