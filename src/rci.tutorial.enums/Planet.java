@@ -1,4 +1,4 @@
-package javatutorial;
+package enums.trail;
 
 /**
  * Created by cimorads on 4/25/2016.

@@ -1,8 +1,6 @@
-package javatutorial;
+package rci.tutorial.classes;
 
 import java.time.LocalDate;
-
-import javatutorial.Person.Sex;
 
 public class Person {
     public enum Sex {
