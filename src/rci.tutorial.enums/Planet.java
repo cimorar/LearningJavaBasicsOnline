@@ -1,4 +1,4 @@
-package enums.trail;
+package rci.tutorial.enums;
 
 /**
  * Created by cimorads on 4/25/2016.
