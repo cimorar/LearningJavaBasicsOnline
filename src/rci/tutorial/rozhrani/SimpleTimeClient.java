@@ -45,5 +45,6 @@ public class SimpleTimeClient implements TimeClient {
     public static void main(String... args) {
         TimeClient myTimeClient = new SimpleTimeClient();
         System.out.println(myTimeClient.toString());
+        System.out.println("test \n");
     }
 }
