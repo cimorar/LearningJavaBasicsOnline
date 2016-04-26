@@ -3,7 +3,7 @@ package rci.tutorial.rozhrani;
 import java.time.LocalDateTime;
 
 /**
- * Created by cimorads on 4/26/2016.
+ * Created by cimorads on 4/26/2016, update from home.
  */
 public interface TimeClient {
     void setTime(int hour, int minute, int second);
